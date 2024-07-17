@@ -36,14 +36,6 @@ A social card game for friends for iOS.
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=marcelweikum&theme=onedark)
 
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 🔄 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ---
 
 Feel free to connect with me. Let's build something amazing together!
