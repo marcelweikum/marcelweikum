@@ -15,18 +15,6 @@
 - [LinkedIn](https://www.linkedin.com/in/marcelweikum/)
 - [Portfolio](https://marcelweikum.de)
 
-## 🛠️ Projects
-Here are some of my notable projects:
-
-### [Financist](https://github.com/marcelweikum/financist)
-A finance tracker using CoreData for iOS.
-
-### [DoTogether](https://github.com/marcelweikum/dotogether)
-A real-time to-do list with Firebase sync for iOS.
-
-### [Le Drink](https://github.com/marcelweikum/le-drink)
-A social card game for friends for iOS.
-
 ## 📈 GitHub Stats
 ![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelweikum&show_icons=true&theme=radical)
 
