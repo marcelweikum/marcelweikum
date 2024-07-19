@@ -38,6 +38,10 @@
 ![Followers](https://img.shields.io/github/followers/marcelweikum?style=flat-square&logo=github)
 ![Stars](https://img.shields.io/github/stars/marcelweikum?style=flat-square&logo=github)
 
+## 🏃 Latest GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 🌐 Find Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelweikum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelweikum)
