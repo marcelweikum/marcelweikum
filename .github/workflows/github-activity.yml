@@ -13,4 +13,4 @@ jobs:
       - name: Update README
         uses: teoxoy/github-profile-activity-generator@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
