@@ -1,62 +1,45 @@
-# 👋 Hi, I'm Marcel Weikum
+# Hi, I'm Marcel Weikum 👋
 
-## 🚀 About Me
-- 🖥️ Passionate Software Developer
-- 💼 Currently an Apprentice as an Application Developer at Würth Elektronik
-- 👨‍💻 Enjoys solving complex problems and continuously learning new skills
+Welcome to my GitHub profile! I'm a passionate software developer and currently an apprentice as an Application Developer at Würth Elektronik. Programming is my passion, and I love learning new things and improving my skills.
 
-## 📚 Skills
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## GitHub Stats
+![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelweikum&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelweikum&layout=compact&theme=default)
 
-### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+## Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=marcelweikum&theme=default)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-
-## 📊 Statistics
-### GitHub Stats
-![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelweikum&show_icons=true&theme=radical)
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelweikum&layout=compact&theme=radical)
-
-### GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=marcelweikum&theme=onedark)
-
-### More Stats
+## Profile Statistics
 ![Visitor Count](https://komarev.com/ghpvc/?username=marcelweikum&style=flat-square&color=blue)
 ![Followers](https://img.shields.io/github/followers/marcelweikum?style=flat-square&logo=github)
 ![Stars](https://img.shields.io/github/stars/marcelweikum?style=flat-square&logo=github)
 
-## 🏃 Latest GitHub Activity
+## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#322](https://github.com/victorbalssa/abacus/issues/322) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-2. ❗ Opened issue [#321](https://github.com/victorbalssa/abacus/issues/321) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-3. 🗣 Commented on [#313](https://github.com/victorbalssa/abacus/issues/313#issuecomment-2235950835) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-4. 💪 Opened PR [#320](https://github.com/victorbalssa/abacus/pull/320) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-5. 🗣 Commented on [#318](https://github.com/victorbalssa/abacus/issues/318#issuecomment-2233358335) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
 <!--END_SECTION:activity-->
 
-## 🌐 Find Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelweikum)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelweikum)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marcelweikum.de)
+## Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-## ☕ Support Me
-  <a href="https://ko-fi.com/marcelweikum">
+## Support Me
+If you like my work, consider supporting me on Ko-fi:
+<br/>
+<a href="https://ko-fi.com/marcelweikum">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" style="width:300px;">
+</a>
+
+## Connect with Me
+<p align="left">
+  <a href="https://github.com/marcelweikum" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/80/000000/github.png" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/marcelweikum" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/80/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://marcelweikum.de" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/80/000000/domain.png" alt="Website"/>
+  </a>
+</p>
 
----
-
-Feel free to connect with me. Let's build something amazing together!
+Thanks for visiting my profile!
