@@ -1,0 +1,16 @@
+name: Update README with GitHub Activity
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        uses: teoxoy/github-profile-activity-generator@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
