@@ -25,6 +25,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 
 ## Weekly Coding Stats
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Support Me
