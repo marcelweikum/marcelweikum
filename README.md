@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9066](https://github.com/firefly-iii/firefly-iii/issues/9066) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-2. ❗ Opened issue [#9063](https://github.com/firefly-iii/firefly-iii/issues/9063) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-3. ❗ Opened issue [#322](https://github.com/victorbalssa/abacus/issues/322) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-4. ❗ Opened issue [#321](https://github.com/victorbalssa/abacus/issues/321) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-5. 🗣 Commented on [#313](https://github.com/victorbalssa/abacus/issues/313#issuecomment-2235950835) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
+1. 🗣 Commented on [#320](https://github.com/victorbalssa/abacus/pull/320#issuecomment-2241099246) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
+2. 🗣 Commented on [#320](https://github.com/victorbalssa/abacus/pull/320#issuecomment-2241097379) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
+3. ❗ Opened issue [#9066](https://github.com/firefly-iii/firefly-iii/issues/9066) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+4. ❗ Opened issue [#9063](https://github.com/firefly-iii/firefly-iii/issues/9063) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+5. ❗ Opened issue [#322](https://github.com/victorbalssa/abacus/issues/322) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
 <!--END_SECTION:activity-->
 
 ## Weekly Coding Stats
