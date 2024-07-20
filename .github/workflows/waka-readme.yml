@@ -2,7 +2,7 @@ name: WT README Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 0 * * *"
 jobs:
   update-readme:
     name: Update this repo's README with WakaTime
