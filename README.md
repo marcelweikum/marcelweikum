@@ -27,10 +27,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 10 mins   █████████████████▓░░░░░░░   71.13 %
-HTML         1 hr 11 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
-Swift        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+TypeScript   3 hrs 10 mins   ████████████░░░░░░░░░░░░░   47.43 %
+JavaScript   1 hr 42 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
+HTML         1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+XML          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
