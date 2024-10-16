@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#318](https://github.com/victorbalssa/abacus/issues/318#issuecomment-2258238898) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-2. 🗣 Commented on [#9084](https://github.com/firefly-iii/firefly-iii/issues/9084#issuecomment-2252776684) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-3. 🗣 Commented on [#9084](https://github.com/firefly-iii/firefly-iii/issues/9084#issuecomment-2252534817) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-4. ❗ Opened issue [#9084](https://github.com/firefly-iii/firefly-iii/issues/9084) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-5. 💪 Opened PR [#323](https://github.com/victorbalssa/abacus/pull/323) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
+1. 🎉 Merged PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
+2. 💪 Opened PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
+3. 🗣 Commented on [#318](https://github.com/victorbalssa/abacus/issues/318#issuecomment-2258238898) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
+4. 🗣 Commented on [#9084](https://github.com/firefly-iii/firefly-iii/issues/9084#issuecomment-2252776684) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+5. 🗣 Commented on [#9084](https://github.com/firefly-iii/firefly-iii/issues/9084#issuecomment-2252534817) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 <!--END_SECTION:activity-->
 
 ## Weekly Coding Stats
