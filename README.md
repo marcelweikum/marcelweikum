@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
 2. 💪 Opened PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
-3. 🗣 Commented on [#318](https://github.com/victorbalssa/abacus/issues/318#issuecomment-2258238898) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-4. 🗣 Commented on [#9084](https://github.com/firefly-iii/firefly-iii/issues/9084#issuecomment-2252776684) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-5. 🗣 Commented on [#9084](https://github.com/firefly-iii/firefly-iii/issues/9084#issuecomment-2252534817) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+3. 🎉 Merged PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
+4. 💪 Opened PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
+5. 🗣 Commented on [#318](https://github.com/victorbalssa/abacus/issues/318#issuecomment-2258238898) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
 <!--END_SECTION:activity-->
 
 ## Weekly Coding Stats
