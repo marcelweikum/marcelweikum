@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1512](https://github.com/dailydotdev/daily/issues/1512) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. 🎉 Merged PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
-3. 💪 Opened PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
-4. 🎉 Merged PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
-5. 💪 Opened PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
+1. 🗣 Commented on [#1512](https://github.com/dailydotdev/daily/issues/1512#issuecomment-2419096208) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+2. ❗ Opened issue [#1512](https://github.com/dailydotdev/daily/issues/1512) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+3. 🎉 Merged PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
+4. 💪 Opened PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
+5. 🎉 Merged PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
 <!--END_SECTION:activity-->
 
 ## Weekly Coding Stats
