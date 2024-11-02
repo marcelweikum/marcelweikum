@@ -27,9 +27,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 34 mins   ███████████████████████▓░   94.93 %
-CSS          23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Prisma       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   7 hrs 19 mins   ███████████████████████▓░   94.06 %
+CSS          23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Prisma       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
