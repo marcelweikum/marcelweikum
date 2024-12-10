@@ -27,11 +27,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 56 mins   ██████████████▒░░░░░░░░░░   57.33 %
-JavaScript   1 hr 36 mins    ███████▓░░░░░░░░░░░░░░░░░   31.30 %
-HTML         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-CSS          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+JavaScript   2 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.68 %
+Python       2 hrs 56 mins   ██████████▓░░░░░░░░░░░░░░   42.20 %
+JSON         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+HTML         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
