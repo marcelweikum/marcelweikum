@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     3 mins          ██████████████▓░░░░░░░░░░   58.66 %
-Vue.js   2 mins          ██████████▒░░░░░░░░░░░░░░   41.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
