@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1512](https://github.com/dailydotdev/daily/issues/1512#issuecomment-2419096208) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+1. ❗ Opened issue [#954](https://github.com/exercism/cpp/issues/954) in [exercism/cpp](https://github.com/exercism/cpp)
 2. ❗ Opened issue [#1512](https://github.com/dailydotdev/daily/issues/1512) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
 3. 🎉 Merged PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
 4. 💪 Opened PR [#1](https://github.com/marcelweikum/skills-introduction-to-github/pull/1) in [marcelweikum/skills-introduction-to-github](https://github.com/marcelweikum/skills-introduction-to-github)
