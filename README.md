@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 <!--START_SECTION:waka-->
 
 ```txt
-C++        2 hrs           ███████████████████████▓░   94.16 %
-Markdown   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
