@@ -27,10 +27,10 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       44 mins         ████████████████████████░   96.12 %
-HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Vue.js       3 hrs 50 mins   ██████████████████████▓░░   90.15 %
+JavaScript   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+HTML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
