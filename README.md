@@ -63,8 +63,8 @@ I’m a budding Application Developer at Würth Elektronik with a deep passion f
 
 ## ⚡ Weekly Coding Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
