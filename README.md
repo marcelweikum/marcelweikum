@@ -63,18 +63,8 @@ I’m a budding Application Developer at Würth Elektronik with a deep passion f
 
 ## ⚡ Weekly Coding Activity
 
-<details>
-<summary>Click to expand</summary>
-
-```txt
-C++              3 hrs 15 mins  █████████░░░░░░░░░░░░░░░░   40.12%
-TypeScript       2 hrs 10 mins  ███████░░░░░░░░░░░░░░░░░░░   26.75%
-JavaScript       1 hr 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   13.48%
-Node.js          1 hr           ███░░░░░░░░░░░░░░░░░░░░░░   12.27%
-Vue.js           40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   05.98%
-```
-
-</details>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
