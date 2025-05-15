@@ -66,11 +66,11 @@ I’m a budding Application Developer at Würth Elektronik with a deep passion f
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js        1 hr 15 mins    █████████▒░░░░░░░░░░░░░░░   37.36 %
-JavaScript    1 hr 11 mins    ████████▓░░░░░░░░░░░░░░░░   35.17 %
-C++           29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-TOML          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-JSON          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+C++           1 hr 1 min      ████████████▒░░░░░░░░░░░░   49.59 %
+JavaScript    39 mins         ████████░░░░░░░░░░░░░░░░░   32.34 %
+TOML          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+JSON          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+HTML          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
