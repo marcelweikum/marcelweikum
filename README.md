@@ -66,11 +66,7 @@ I’m a budding Application Developer at Würth Elektronik with a deep passion f
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 mins         ██████████▒░░░░░░░░░░░░░░   41.62 %
-Other        13 mins         ██████████░░░░░░░░░░░░░░░   39.51 %
-Bash         4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Git Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
