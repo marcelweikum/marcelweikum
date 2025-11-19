@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D5D78,100:07074B&height=180&section=header&text=Marcel%20Weikum&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E3E78,100:07074B&height=180&section=header&text=Marcel%20Weikum&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Application+Developer+%F0%9F%9A%80;C%2B%2B+%26+Full-Stack+Enthusiast+%F0%9F%92%BB;Exercism+Mentor+%F0%9F%8E%93;Mensa+Member+%F0%9F%A7%A0" alt="Typing SVG" /></a>
@@ -183,6 +183,6 @@ No activity tracked
 
 **⭐ From [marcelweikum](https://github.com/marcelweikum) with 💙**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07074B,100:0D5D78&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07074B,100:0E3E78&height=100&section=footer" width="100%"/>
 
 </div>
