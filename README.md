@@ -4,7 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E3E78,100:07074B&height=180&section=header&text=Marcel%20Weikum&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Application+Developer+%F0%9F%9A%80;C%2B%2B+%26+Full-Stack+Enthusiast+%F0%9F%92%BB;Exercism+Mentor+%F0%9F%8E%93;Mensa+Member+%F0%9F%A7%A0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Application+Developer+%F0%9F%9A%80;C%2B%2B+%26+Full-Stack+Enthusiast+%F0%9F%92%BB;Exercism+Mentor+%F0%9F%8E%93;Mensa+Member+%F0%9F%A7%A0">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Application+Developer+%F0%9F%9A%80;C%2B%2B+%26+Full-Stack+Enthusiast+%F0%9F%92%BB;Exercism+Mentor+%F0%9F%8E%93;Mensa+Member+%F0%9F%A7%A0">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Application+Developer+%F0%9F%9A%80;C%2B%2B+%26+Full-Stack+Enthusiast+%F0%9F%92%BB;Exercism+Mentor+%F0%9F%8E%93;Mensa+Member+%F0%9F%A7%A0" alt="Typing SVG" />
+  </picture>
+</a>
 
 <br/>
 
@@ -92,21 +98,41 @@ public:
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcelweikum&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" alt="Marcel's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelweikum&theme=react&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="Marcel's Streak Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marcelweikum&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=marcelweikum&show_icons=true&theme=default&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=24292f">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcelweikum&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" alt="Marcel's GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcelweikum&theme=react&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcelweikum&theme=default&hide_border=true&stroke=0969DA&ring=0969DA&fire=FF6B6B&currStreakLabel=0969DA">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelweikum&theme=react&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="Marcel's Streak Stats"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=marcelweikum&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Marcel's Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcelweikum&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcelweikum&theme=github-light&hide_border=true&color=0969DA&line=0969DA&point=24292f">
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=marcelweikum&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Marcel's Activity Graph"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelweikum&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelweikum&theme=react&utcOffset=1" alt="Productive Time"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelweikum&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelweikum&layout=compact&theme=default&hide_border=true&title_color=0969DA&text_color=24292f&langs_count=8">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelweikum&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelweikum&theme=react&utcOffset=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelweikum&theme=github&utcOffset=1">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelweikum&theme=react&utcOffset=1" alt="Productive Time"/>
+  </picture>
 </div>
 
 </details>
@@ -120,7 +146,11 @@ public:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=marcelweikum&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=marcelweikum&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=marcelweikum&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=marcelweikum&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+</picture>
 
 ### 🌟 Highlights
 - 🎓 **Exercism Mentor** - Guiding developers in their coding journey
@@ -154,12 +184,20 @@ No activity tracked
 <!-- Snake Animation -->
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/marcelweikum/marcelweikum/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcelweikum/marcelweikum/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcelweikum/marcelweikum/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/marcelweikum/marcelweikum/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</picture>
 
 <br/><br/>
 
 <!-- Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</picture>
 
 </div>
 
